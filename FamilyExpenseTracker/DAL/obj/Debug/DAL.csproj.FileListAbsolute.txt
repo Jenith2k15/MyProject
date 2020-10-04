@@ -1,0 +1,9 @@
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\DAL\bin\Debug\DAL.dll
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\DAL\bin\Debug\DAL.pdb
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\DAL\bin\Debug\BO.dll
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\DAL\bin\Debug\BO.pdb
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\DAL\obj\Debug\DAL.dll
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\BO\bin\Debug\BO.dll
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\BO\bin\Debug\BO.pdb
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\BO\obj\Debug\BO.dll
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\BO\obj\Debug\BO.pdb
+C:\Users\Jenith\source\repos\DB6768697071Project\FamilyExpenseTracker\BO\obj\Debug\BO.csprojAssemblyReference.cache
